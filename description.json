@@ -1,0 +1,6 @@
+{
+  "title": "物品套装信息",
+  "author": "ether-zhang",
+  "version": "0.1.4",
+  "description": "在物品简介旁显示套装效果和全部部件，支持一个物品属于多个套装。"
+}

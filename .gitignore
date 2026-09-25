@@ -1,0 +1,11 @@
+build/
+dist/
+*.dll
+*.obj
+*.exp
+*.lib
+*.log
+__pycache__/
+*.py[cod]
+/src/set_catalog.generated.hpp
+/src/native_signatures.generated.hpp
